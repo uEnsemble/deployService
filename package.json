@@ -7,7 +7,7 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Jesse Antoszyk <jesse@antoszyk.com>",
   "license": "ISC",
   "engines": {
     "node": "6.x"
